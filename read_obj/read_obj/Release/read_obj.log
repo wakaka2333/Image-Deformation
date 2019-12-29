@@ -1,0 +1,57 @@
+﻿  源.cpp
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(20): error C2082: 形参“control_p”的重定义
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(21): error C2082: 形参“control_q”的重定义
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(65): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(66): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(68): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(69): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(85): warning C4838: 从“_Tp”转换到“double”需要收缩转换
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(90): warning C4838: 从“_Tp”转换到“double”需要收缩转换
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(145): warning C4838: 从“_Tp”转换到“double”需要收缩转换
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(150): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(151): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(167): error C2660: “MLS”: 函数不接受 1 个参数
+  c:\users\82158\source\repos\read_obj\read_obj\源.cpp(17): note: 参见“MLS”的声明
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(178): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+c:\users\82158\source\repos\read_obj\read_obj\源.cpp(178): error C2660: “MLS”: 函数不接受 1 个参数
+  c:\users\82158\source\repos\read_obj\read_obj\源.cpp(17): note: 参见“MLS”的声明
